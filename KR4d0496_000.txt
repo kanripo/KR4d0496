@@ -1,26 +1,12 @@
-# -*- mode: mandoku-view; -*-
+# -*- mode: mandoku-view -*-
 #+TITLE: 范德機詩集
-#+DATE: 2015-09-11 16:24:34.800811
-#+PROPERTY: ID KR4d0496
-#+PROPERTY: BASEEDITION SBCK    
-#+PROPERTY: WITNESS SBCK
+#+DATE: 2015-09-23 10:26:40
 #+PROPERTY: JUAN 0
-#+PROPERTY: FILE SB04n0485-000范德機詩集-纲目.
-<pb:KR4d0496_SBCK_000-1a>¶
-范徳機詩集綱目¶
-　　　&KR0195;之一¶
-　　　&KR0195;之二¶
-　　　　　　五言古體¶
-　　　&KR0195;之三¶
-　　　　　　五言絶句　五言律詩¶
-　　　&KR0195;之四¶
-　　　&KR0195;之五¶
-<pb:KR4d0496_SBCK_000-1b>¶
-　　　　　七言古體¶
-　　&KR0195;之六¶
-　　　　　七言絶句¶
-　　&KR0195;之七¶
-　　　　　七言律詩¶
-　　　　　至　元　庚　辰　良　月¶
-　　　　　　益　友　書　堂　新　刋¶
-綱目畢¶
+
+<md:KR4d0496_SBCK_007-21a>¶
+<md:KR4d0496_SBCK_000-1a>¶
+<pb:KR4d0496_WYG_000-1a>
+欽定四庫全書　　　　　集部五
+　范徳機詩集　　¶　　　别集類¶四¶(元/)
+　　提要
+　　　　¶臣等謹案
